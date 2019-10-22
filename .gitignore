@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/node_modules
+/vendor
+/public/dist
+/.env
+/.php_cs.cache
+/yarn-error.log
+/test.php

@@ -1,0 +1,4 @@
+* text=auto
+/composer.lock -merge
+public/static/* linguist-vendored
+CHANGELOG.md export-ignore
